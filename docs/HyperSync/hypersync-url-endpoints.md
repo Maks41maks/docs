@@ -1,18 +1,17 @@
 ---
-id: hypersync-url-endpoints
-title: Endpoints
-sidebar_label: Endpoints
-slug: /hypersync-url-endpoints
----
+id:hypersync-url-endpoints
+title:Endpoints
+sidebar_label:Endpoints
+slug:/hypersync-url-endpoint
 
 Here is a table of currently supported networks on HyperSync and their respective URL endpoints.
 
 :::note
 Please note we are rapidly updating supported networks and this list may be outdated.
-Don't see your network here? Pop us a message in [Discord](https://discord.gg/Q9qt8gZ2fX).
+Don't see your network here? Pop us a message in [Discord]https://discordgg/Q9qt8gZ2fX
 :::
 
-| Network Name     | Network ID | URL                                                                    |
+| Network Name      Network ID  URL                                                                    |
 | ---------------- | ---------- | ---------------------------------------------------------------------- |
 | Ethereum Mainnet | 1          | https://eth.hypersync.xyz or https://1.hypersync.xyz                   |
 | Goerli           | 5          | https://goerli.hypersync.xyz or https://5.hypersync.xyz                |
